@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nirmal! <br/><a href="https://github.com/urmagaeddon"></a>, <a href="https://www.linkedin.com/in/nirmal-ka/">Cybersecurity Bachelor</a>, <a href="">Project Management</a></h1>
+<h1>Hi, I'm Nirmal! <br/><a href="https://github.com/urmagaeddon"></a><a href="https://www.linkedin.com/in/nirmal-ka/">Cybersecurity Bachelor</a>, <a href="">Project Management</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
